@@ -87,6 +87,7 @@ src/
 * The code should be well-structured, maintainable, and follow Rust best practices
 * Include a Cargo.toml file with all necessary dependencies
 * Consider using configuration files for environment-specific settings and the token address
+* The estimated maximum time to complete this technical test is about 3 hours depending on you abilities with rust.
 
 ### Submission Instructions
 
@@ -98,4 +99,5 @@ Please share an archive (`zip`, `tar`, or equivalent) of your git project. Ensur
 
 The archive should be runnable without excessive configuration, and the README should clearly explain how to build and run the project.
 
+---
 Please contact me if you have any question
